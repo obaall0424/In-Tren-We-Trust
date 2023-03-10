@@ -1,0 +1,13 @@
+img{
+    width: 500px;
+    height: 500px;
+    transition: scale 4s ease;
+}
+
+img:hover{
+scale: 50%;
+}
+
+body{
+    background-color: black;
+}
